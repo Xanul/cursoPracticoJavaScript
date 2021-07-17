@@ -1,5 +1,3 @@
-// @ts-check
-
 // Código del cuadrado
 function perimetroCuadrado(lado) {
   return lado * 4;
