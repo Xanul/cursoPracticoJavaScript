@@ -22,3 +22,5 @@ Here were going to commit the code related to the JavaScript practical course
 2.- Implementar las formulas en JavaScript
 3.- Crear las funciones
 4.- Integrar JavaScript con HTML
+
+##
